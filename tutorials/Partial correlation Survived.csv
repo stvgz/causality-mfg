@@ -1,0 +1,7 @@
+,features,pcorr_y
+0,Survived,1.0
+1,Age,-0.2
+2,Pclass,-0.289
+3,SibSp,-0.094
+4,Parch,0.072
+5,Fare,0.069
